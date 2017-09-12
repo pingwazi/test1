@@ -8,6 +8,7 @@ namespace NewSynTax
         {
             string name = "xiaoping";
             Console.WriteLine($"Hello {name}!");
+            Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
     }
